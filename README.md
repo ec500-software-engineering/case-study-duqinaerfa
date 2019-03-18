@@ -62,3 +62,8 @@ Answer；It seems you can not make a patch / pull request for the project to fix
 ## Making a demonstration application of the system, your own application showing how the software is used  
 A demonstration of a Random forest classifier which uses Scikit-learn. The result is 
 ![Image text](https://github.com/ec500-software-engineering/case-study-duqinaerfa/blob/master/demonstration_result.png)
+
+## Reference
+https://github.com/scikit-learn/scikit-learn
+https://scikit-learn.org/0.20/_downloads/scikit-learn-docs.pdf
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
