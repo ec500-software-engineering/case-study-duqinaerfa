@@ -42,6 +42,8 @@ b.What parts of the software are asynchronous (if any)?
 Answer: null   
   
 c.Please make diagrams as appropriate for your explanation   
+![Image text](https://github.com/ec500-software-engineering/case-study-duqinaerfa/blob/master/diagrams.png)
+  
   
 d.How are separation of concerns and information hiding handled?  
 Answer: In the github file everything is well explained in readme and is well separated in different file packages.  
@@ -58,3 +60,5 @@ Answer: most issues just adding a new function rather than architecture change.
 b.make a patch / pull request for the project to fix problem / add feature  
 Answer；It seems you can not make a patch / pull request for the project to fix problem / add feature if you are not one of the team members.  
 ## Making a demonstration application of the system, your own application showing how the software is used  
+A demonstration of a Random forest classifier which uses Scikit-learn. The result is 
+![Image text](https://github.com/ec500-software-engineering/case-study-duqinaerfa/blob/master/demonstration_result.png)
