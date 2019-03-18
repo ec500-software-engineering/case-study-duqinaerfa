@@ -64,6 +64,6 @@ A demonstration of a Random forest classifier which uses Scikit-learn. The resul
 ![Image text](https://github.com/ec500-software-engineering/case-study-duqinaerfa/blob/master/demonstration_result.png)
 
 ## Reference
-https://github.com/scikit-learn/scikit-learn
-https://scikit-learn.org/0.20/_downloads/scikit-learn-docs.pdf
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+https://github.com/scikit-learn/scikit-learn  
+https://scikit-learn.org/0.20/_downloads/scikit-learn-docs.pdf  
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html  
